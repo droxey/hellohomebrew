@@ -7,7 +7,7 @@ release:
 brews:
 - name: hellohomebrew
   github:
-    owner: TODO_GITHUB_USERNAME
+    owner: droxey
     name: homebrew-hellohomebrew
   commit_author:
     name: goreleaserbot
@@ -15,7 +15,7 @@ brews:
   folder: Formula
   install: bin.install "hellohomebrew"
   description: BEW 2.5 - Homebrew Hello World
-  homepage: https://github.com/TODO_GITHUB_USERNAME/homebrew-hellohomebrew
+  homepage: https://github.com/droxey/homebrew-hellohomebrew
   goarm: "6"
 scoop:
   name: hellohomebrew
